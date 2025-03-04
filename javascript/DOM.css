@@ -1,0 +1,11 @@
+body{
+    background-color: pink;
+}
+.myclass{
+    color:blue;
+    background-color: yellow;
+}
+#myId{
+    color: brown;
+    background-color: chartreuse;
+}
